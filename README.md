@@ -11,7 +11,7 @@ sudo pacman -S jdk11-openjdk (Arch)
 
 or
 
-sudo apt install openjdk-11-jdk
+sudo apt install openjdk-11-jdk (Debian)
 
 ```
 
