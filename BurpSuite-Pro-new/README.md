@@ -1,6 +1,6 @@
 # Burp Suite Professional Installation steps for Linux
 
-Link - Use this link to install newer Version of the BurpSuite
+> Link - Use this link to install newer Version of the BurpSuite
 
 ```bash
 Link="https://portswigger-cdn.net/burp/releases"
@@ -8,7 +8,7 @@ Link="https://portswigger-cdn.net/burp/releases"
 
 # Execute Keygenerator
 
-Note - Both Keygen and BurpSuite jar File should be in same directory.
+> Note - Both Keygen and BurpSuite jar File should be in same directory.
 
 <br>
 
