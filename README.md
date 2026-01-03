@@ -8,7 +8,7 @@ This directory contains:
     - **Burp Suite Loader / Java Agent**
 
   - Newer Burp Suite builds
-    - **Burp Suite Loader / Java Agent** (Keygen and Loader are combined)
+    - **Burp Suite Loader / Java Agent**  (Keygen and Loader are combined)
 
 
 This collection is maintained for **reference and testing purposes only**.  
