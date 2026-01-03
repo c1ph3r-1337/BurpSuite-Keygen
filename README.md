@@ -5,6 +5,15 @@ Link - This version of the Burpsuite Works with the "Java 11" as some flags in t
 ```bash  
 Link="https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.8.2&type=jar"
 ```
+# Intall Java 11 
+```bash
+sudo pacman -S jdk11-openjdk (Arch)
+
+or
+
+sudo apt install openjdk-11-jdk
+
+```
 
 # execute Keygenerator
 ```bash
@@ -13,7 +22,7 @@ echo 'Starting Keygenerator'
 ```
 # Execute Burp Suite Professional with Keyloader
 ```bash 
-echo "java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:$(pwd)/loader.jar -noverify -jar $(pwd)/burpsuite_pro_v2022.8.2.jar &" > burp
+echo "/usr/lib/jvm/java-11-openjdk/bin/java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:$(pwd)/loader.jar -noverify -jar $(pwd)/burpsuite_pro_v2022.8.2.jar &" > burp
 chmod +x burp
 cp burp /bin/burp 
 (./burp) 
