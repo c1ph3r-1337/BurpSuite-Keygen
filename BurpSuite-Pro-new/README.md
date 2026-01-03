@@ -29,6 +29,6 @@ Burp Suite Pro Activation Steps
 5. Copy license response from Keygenerator and paste in Burp Suite Pro, then next and Done.
 
 ---
-Credit - https://github.com/h3110w0r1d
+Credit - [h3110w0r1d](https://github.com/h3110w0r1d)
 
 ---
