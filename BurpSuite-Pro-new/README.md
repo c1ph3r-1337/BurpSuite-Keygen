@@ -12,9 +12,11 @@ Note - Both Keygen and BurpSuite jar File should be in same directory.
 
 ```bash
 java -jar BurpLoaderKeygen_v1.18.jar &
+```
 
 or  
 
+```bash
 echo "java -jar $(pwd)/BurpLoaderKeygen_v1.18.jar &" > burp
 chmod +x burp
 cp burp /bin/burp 
