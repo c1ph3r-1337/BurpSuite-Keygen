@@ -1,4 +1,4 @@
-# Link
+# Link - This version of the Burpsuite Works with the "Java 11" as some flags in the further commands may not work for the Java 17 or 21 
 
 ```bash  Link="https://portswigger-cdn.net/burp/releases/download?product=pro&version=2022.8.2&type=jar" ```
 
