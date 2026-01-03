@@ -23,6 +23,7 @@ chmod +x burp
 cp burp /bin/burp 
 (./burp) 
 ```
+<br>
 
 > Burp Suite Pro Activation Steps
 > 1. Modify License String like "license to h3110w0r1d"
