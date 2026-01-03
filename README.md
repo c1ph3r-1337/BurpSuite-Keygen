@@ -5,9 +5,7 @@ This directory contains:
 - **Burp Suite Versions**
   - Older Burp Suite builds
     - **Burp Suite Keygen**
-      - Swing-based keygen UI 
     - **Burp Suite Loader / Java Agent**
-      - Loader implementation
 
   - Newer Burp Suite builds
     - **Burp Suite Loader / Java Agent** (Keygen and Loader are combined)
