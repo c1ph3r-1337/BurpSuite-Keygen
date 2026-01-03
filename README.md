@@ -15,9 +15,8 @@ sudo apt install openjdk-11-jdk (Debian)
 
 ```
 
-# execute Keygenerator
+# Execute Keygenerator
 ```bash
-echo 'Starting Keygenerator'
 (java -jar keygen.jar) & 
 ```
 # Execute Burp Suite Professional with Keyloader
