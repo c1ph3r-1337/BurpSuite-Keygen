@@ -36,6 +36,6 @@ Burp Suite Pro Activation Steps
 4. Copy License Request from BurpSuite_Pro and paste in Keygenerator.
 5. Copy license response from Keygenerator and paste in Burp Suite Pro, then next and Done.
 Executing Burp Suite Profession after Activation
---> Kali Linux :-: You can start Burp Suite Professional by writing **burp** in terminal.
+--> You can start Burp Suite Professional by writing **burp** in terminal.
 Updating Burp Suite Professional
 --> Replace existing Burp-Suite-Pro.jar file with latest Burp Suite Professional jar 
