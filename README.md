@@ -3,7 +3,7 @@
 </p>
 
 
-# Burp Suite Keygen & Loader (Archive)
+<p align="center"> # Burp Suite Keygen & Loader (Archive) </p>
 
 > **Note**  
 > I have personally reviewed and gone through the source code included in this archive.  
