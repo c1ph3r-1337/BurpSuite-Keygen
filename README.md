@@ -13,7 +13,7 @@ echo 'Starting Keygenerator'
 ```
 # Execute Burp Suite Professional with Keyloader
 ```bash 
-echo "java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:$(pwd)/loader.jar -noverify -jar $(pwd)/Burp_Suite_Pro.jar &" > burp
+echo "java --illegal-access=permit -Dfile.encoding=utf-8 -javaagent:$(pwd)/loader.jar -noverify -jar $(pwd)/burpsuite_pro_v2022.8.2.jar &" > burp
 chmod +x burp
 cp burp /bin/burp 
 (./burp) 
